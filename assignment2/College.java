@@ -1,9 +1,9 @@
 package org.system.assignment2;
 
-public class College {
+public class College {                                                             //class College created
 
 	
-	public void collegeName() {
+	public void collegeName() {                                                //methods CollegeName,CollegeCode,collegeRank   are created
 	System.out.println("college Name is = st.Anns college for women ");
 }
 
