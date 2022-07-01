@@ -1,6 +1,6 @@
 package org.system.assignment2;
 
-public class Student extends College {
+public class Student extends College { class Student inherits College class
 
 	
 	public void studentName(){
@@ -19,11 +19,11 @@ public class Student extends College {
 
 
 public static void main(String[] args) {
-	Student obj = new Student(); 
-	Department d=new Department();
-	College c =new College();
+	Student obj = new Student(); object for Student class 
+	Department d=new Department();object for Department class
+	College c =new College();        object for college class 
 
-	c.collegeName();
+	c.collegeName();           //all the methods from student ,department ,college classes are called by objects
 	c.collegeCode();
 	c.collegeRank();
 	d.departmentName();
