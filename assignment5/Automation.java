@@ -24,7 +24,7 @@ public static void main(String[] args) {
 		Automation auto = new Automation();
 		auto.Java();
 		auto.Selenium();
-		auto.Phython();
+		auto.Python();
 		auto.ruby();
 	}
 }
